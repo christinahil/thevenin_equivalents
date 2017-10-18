@@ -1,4 +1,4 @@
-function [Z,lu_factors] = Zcs_KLU_gtc_3(A)
+function [Z,lu_factors] = compute_coefficients(A)
 % lu_factors : factors from KLU factorization
 % Z : thevenin impedances
 
